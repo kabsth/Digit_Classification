@@ -117,7 +117,9 @@ bash
    git clone https://github.com/kabsth/Digit_Classification.git
 
 2. **Install dependencies**
-pip install -r requirements.txt
+
+bash
+  pip install -r requirements.txt
 
 3. **Open the notebook**
 classification_task.ipynb
